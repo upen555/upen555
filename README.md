@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @upen555
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on software projects to learn new things
+- 👋Developer
 - 📫 How to reach me ...
 upender.gunwal96@gmail.com 
 <!---
